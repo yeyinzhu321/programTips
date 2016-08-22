@@ -1,4 +1,4 @@
-# programTips
+
 ## 本资源主要提供程序员小技巧 
 - 代码范围范围在linux|javascript|java|python|node.js|几门比较流行的语言上。
 - 大家觉得有疑问的，又不懂得，有想一起分享的，提到Issues上，我觉得好的会整理出来。
